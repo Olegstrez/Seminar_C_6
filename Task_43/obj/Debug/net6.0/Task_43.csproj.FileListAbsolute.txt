@@ -1,0 +1,20 @@
+C:\Users\kornilov.s\Desktop\new_packahe_6\Task_43\obj\Debug\net6.0\Task_43.csproj.AssemblyReference.cache
+C:\Users\kornilov.s\Desktop\new_packahe_6\Task_43\obj\Debug\net6.0\Task_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kornilov.s\Desktop\new_packahe_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfoInputs.cache
+C:\Users\kornilov.s\Desktop\new_packahe_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfo.cs
+C:\Users\kornilov.s\Desktop\new_packahe_6\Task_43\obj\Debug\net6.0\Task_43.csproj.CoreCompileInputs.cache
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.csproj.AssemblyReference.cache
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfoInputs.cache
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.AssemblyInfo.cs
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.csproj.CoreCompileInputs.cache
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\bin\Debug\net6.0\Task_43.exe
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\bin\Debug\net6.0\Task_43.deps.json
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\bin\Debug\net6.0\Task_43.runtimeconfig.json
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\bin\Debug\net6.0\Task_43.dll
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\bin\Debug\net6.0\Task_43.pdb
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.dll
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\refint\Task_43.dll
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.pdb
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\Task_43.genruntimeconfig.cache
+C:\Users\хуй моржовый\Desktop\Seminar_6\C-Seminar_6\Task_43\obj\Debug\net6.0\ref\Task_43.dll
